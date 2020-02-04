@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 .idea
+*.txt
+*.db
 
 # Distribution / packaging
 .Python
